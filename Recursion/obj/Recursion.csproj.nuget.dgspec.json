@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/root/Design_Patterns/Recursion/Recursion.csproj": {}
+    "/root/Data_Structure/Recursion/Recursion.csproj": {}
   },
   "projects": {
-    "/root/Design_Patterns/Recursion/Recursion.csproj": {
+    "/root/Data_Structure/Recursion/Recursion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/root/Design_Patterns/Recursion/Recursion.csproj",
+        "projectUniqueName": "/root/Data_Structure/Recursion/Recursion.csproj",
         "projectName": "Recursion",
-        "projectPath": "/root/Design_Patterns/Recursion/Recursion.csproj",
+        "projectPath": "/root/Data_Structure/Recursion/Recursion.csproj",
         "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/root/Design_Patterns/Recursion/obj/",
+        "outputPath": "/root/Data_Structure/Recursion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/root/.nuget/NuGet/NuGet.Config"
